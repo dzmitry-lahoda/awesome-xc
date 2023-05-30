@@ -7,6 +7,10 @@ Awesome cross chain languages and protocols (Polkadot XCM and Cosmos ICS-999).
 [Polkadot XCM Global Asset Registry (GAR) for Polkadot and Kusama Ecosystem](https://github.com/colorfulnotion/xcm-global-registry) #dotsama #assets #registry
 
 
+## Multihop solutions
+
+[packet-forward-middleware](https://github.com/strangelove-ventures/packet-forward-middleware)
+
 ## Indexers/Monitoring/Alerts/Aggregators
 
 [Subscum](subscan.io) #xcm #redis #myssql
