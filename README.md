@@ -21,3 +21,9 @@ Awesome cross chain languages and protocols (Polkadot XCM and Cosmos ICS-999).
 [Subscum](subscan.io) #xcm #redis #myssql
 
 [Polkaholic](https://polkaholic.io/) #xcm [#oss](https://github.com/colorfulnotion/polkaholic) #bigquery #mysql
+
+## Modules
+
+### Dotsama
+
+[pallet-ismp](https://github.com/polytope-labs/substrate-ismp) #bridge #trustless #messaging
